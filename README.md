@@ -227,6 +227,10 @@ npm run preview
 The project is deployed using **Vercel**.
 
 🔗 **Live Website:**
+https://b14-a05-react-one.vercel.app/
+
+or
+
 https://b14-a05-react-git-main-gazishawon999.vercel.app/
 
 ---
